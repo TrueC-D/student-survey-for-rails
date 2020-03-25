@@ -1,4 +1,4 @@
-# Student Survey For Content up to the Rails Project
+# Student Survey For Rails
 
 ## We Would Like Your Feedback
 
